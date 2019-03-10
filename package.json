@@ -1,0 +1,26 @@
+{
+  "name": "redebug",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muyu66/reDEBUG.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muyu66/reDEBUG/issues"
+  },
+  "homepage": "https://github.com/muyu66/reDEBUG#readme",
+  "devDependencies": {
+    "tslint": "^5.13.1",
+    "typescript": "^3.3.3333"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
